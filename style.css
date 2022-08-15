@@ -2,3 +2,9 @@ h1{
     color: blueviolet;
     font-size: 100px;
 }
+body{
+    height: 100vh;
+    background-color: black;
+    justify-content: center;
+    display: flex;
+}
